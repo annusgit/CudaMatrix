@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/annus/CLionProjects/graphs/Graph.cpp
+Graph.h
+/home/annus/CLionProjects/graphs/Graph.h
+
+/home/annus/CLionProjects/graphs/Graph.h
+vector
+-
+
+/home/annus/CLionProjects/graphs/main.cpp
+iostream
+-
+Graph.h
+/home/annus/CLionProjects/graphs/Graph.h
+
